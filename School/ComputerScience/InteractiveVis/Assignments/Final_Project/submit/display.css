@@ -1,0 +1,10 @@
+
+
+div.resize {
+	width:5px;
+	height:92px;
+}
+
+img:hover{
+	outline: 2px solid black;
+}
